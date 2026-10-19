@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "우리집 관리노트",
+  "short_name": "관리노트",
+  "description": "가전 보증기간, 렌탈 계약, 월 고정지출을 관리해요.",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#f7f3ec",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
